@@ -1,0 +1,40 @@
+Credit Card Fraud Detection Using State-of-the-Art Machine Learning and Deep Learning Algorithms
+
+Fraud detection, deep learning, machine learning, online fraud, credit card frauds,transaction data analysis.
+
+
+IEEE Access and Machine Learning,Volume:10,Issue Date:12.April.2022
+
+
+Credit_Card_Fraud_Detection
+
+
+credit_card_fraud_detection
+
+
+
+
+cc_fraud_detection_type
+
+trans_date
+cc_num
+category
+AMT_TRANS
+first
+last
+gender
+street
+city
+state
+zip
+User_Lat
+User_Long
+city_pop
+Job
+Dob
+trans_num
+merch_lat
+merch_long
+Prediction
+
+
